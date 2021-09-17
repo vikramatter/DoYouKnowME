@@ -8,7 +8,7 @@ console.log(`Benvenuto ${userName}!How Well Do You Know Vikram?`);
 var highScores = [
   {
     name: "Vikram",
-    score: 10,
+    score: 7,
   },
 
   {
